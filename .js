@@ -1,5 +1,5 @@
 function sum (a,b) {
-  var c = a + r;
+  var c = a + b;
   return c;
   }
 
